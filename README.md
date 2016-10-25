@@ -1,8 +1,8 @@
 # Snake
 
-A simple game made in **Pascal** in 2009. It is a variation of a well known video game called Snake.
-The code itself is pretty unreadable as I had no previous experience with any best practices.
-However, I still have feelings for this project because it was my first self-programmed game.
+A simple game made in **Pascal** in 2009. It is a variation of the well known video game.
+The code is pretty unreadable as I had no previous experience with any best practices.
+However, I still have feelings for this project because it was my first programmed game.
 
 [![Snake](http://img.youtube.com/vi/mhRqh4NWYys/0.jpg)](http://www.youtube.com/watch?v=mhRqh4NWYys "Snake")
 
